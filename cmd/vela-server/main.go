@@ -25,6 +25,8 @@ import (
 
 //nolint:funlen // ignore line length
 func main() {
+	fmt.Println("testing the things")
+
 	// capture application version information
 	v := version.New()
 
